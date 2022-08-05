@@ -1,0 +1,21 @@
+Step 1: Cleaning the Data
+
+Step 2: EDA
+
+Step 3: Model Development
+
+Step 4: Model Evaluation
+
+Step 5: Final Submission
+
+
+
+Installment Approval Model - To determine whether a customer should be allowed to make a purchase\
+
+
+Case 1 - Take null value as 0
+Case 2 - Remove null value from the data
+
+
+Create a column for the default 
+
